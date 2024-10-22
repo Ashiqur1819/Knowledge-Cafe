@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.pexels.com/photos/5926393/pexels-photo-5926393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Exploring the Future of AI",
+    "author_img": "https://images.pexels.com/photos/7654586/pexels-photo-7654586.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "author": "John Doe",
+    "posted_date": "2024-10-01",
+    "reading_time": 7,
+    "hashtags": ["#AI", "#Technology", "#Innovation"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.pexels.com/photos/6963944/pexels-photo-6963944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Mastering Python for Data Science",
+    "author_img": "https://images.pexels.com/photos/3760373/pexels-photo-3760373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Jane Smith",
+    "posted_date": "2024-09-20",
+    "reading_time": 5,
+    "hashtags": ["#Python", "#DataScience", "#Coding"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.pexels.com/photos/4974922/pexels-photo-4974922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "The Rise of Electric Vehicles",
+    "author_img": "https://images.pexels.com/photos/16771673/pexels-photo-16771673/free-photo-of-itay-verchik-with-suite-smiles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Emily Clark",
+    "posted_date": "2024-08-15",
+    "reading_time": 6,
+    "hashtags": ["#ElectricVehicles", "#Sustainability", "#GreenEnergy"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.pexels.com/photos/7988079/pexels-photo-7988079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Understanding Quantum Computing",
+    "author_img": "https://images.pexels.com/photos/7352523/pexels-photo-7352523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Michael Lee",
+    "posted_date": "2024-07-30",
+    "reading_time": 10,
+    "hashtags": ["#QuantumComputing", "#FutureTech", "#Science"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.pexels.com/photos/4974913/pexels-photo-4974913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "A Guide to Healthy Eating",
+    "author_img": "https://images.pexels.com/photos/7647946/pexels-photo-7647946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Sarah Green",
+    "posted_date": "2024-06-10",
+    "reading_time": 4,
+    "hashtags": ["#Health", "#Nutrition", "#Wellness"]
+  }
+]
